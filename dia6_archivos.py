@@ -1,9 +1,9 @@
 #crear un archivo
 with open("empleados.txt","w") as archivo:
     archivo.write("Salvador\n")
-    archivo.write("Yennifer\n")
-    archivo.write("Alondra\n")
-    archivo.write("Alejandro\n")
+    archivo.write("Mateo\n")
+    archivo.write("Juana\n")
+    archivo.write("Mario\n")
 
 #Leer un archivo
 with open("empleados.txt","r") as archivo:
